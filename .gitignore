@@ -1,0 +1,9 @@
+# Ignora i video pesanti e le cartelle di rendering di Manim
+**/media/
+**/__pycache__/
+*.mp4
+*.mov
+
+# Ignora i file di sistema del Mac
+.DS_Store
+**/.DS_Store
