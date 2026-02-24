@@ -21,7 +21,7 @@ Currently, I develop programmatic visualizations for the Math Outreach Team at P
 ### 2. Fourier Series Analytical Visualization
 * **Status:** Completed
 * **Code:** [`/fourier_series`](./fourier_series)
-* **Final Video** [Guarda il video completo su YouTube](https://youtu.be/p988GhnbYUo)
+* **Final Video** [Final Video on Youtube (in italian)](https://youtu.be/p988GhnbYUo)
 
 **Mathematical Focus:** A deep dive into the mechanics of Fourier Series, breaking down complex waveforms into rotating epicycles.
 
