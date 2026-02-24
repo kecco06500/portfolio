@@ -21,7 +21,7 @@ Currently, I develop programmatic visualizations for the Math Outreach Team at P
 ### 2. Fourier Series Analytical Visualization
 * **Status:** Completed
 * **Code:** [`/fourier_series`](./fourier_series)
-* **Full Video:** 
+* **Final Video** [Guarda il video completo su YouTube](https://youtu.be/p988GhnbYUo)
 
 **Mathematical Focus:** A deep dive into the mechanics of Fourier Series, breaking down complex waveforms into rotating epicycles.
 
@@ -29,7 +29,7 @@ Currently, I develop programmatic visualizations for the Math Outreach Team at P
 ### 3. Integration Bee Visualizations
 * **Status:** Work in Progress
 * **Code:** [`/integration_bee`](./integration_bee)
-* **Final Video** [Guarda il video completo su YouTube](https://youtu.be/p988GhnbYUo)
+
 
 **Mathematical Focus:** Dynamic visualizations of complex integrals and problem-solving strategies.
 
