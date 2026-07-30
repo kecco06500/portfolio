@@ -6,7 +6,7 @@ Currently, I develop programmatic visualizations for the Math Outreach Team at P
 
 ---
 
-## 📂 Selected Projects
+## Selected Projects
 
 ### 1. Vector Calculus: Green's & Stokes' Theorems (KerPolito Outreach)
 * **Status:** Work in Progress
@@ -35,13 +35,13 @@ Currently, I develop programmatic visualizations for the Math Outreach Team at P
 
 ---
 
-## 🛠 Technical Stack & Workflow
+## Technical Stack & Workflow
 * **Framework:** Manim (Community Edition)
 * **Language:** Python 3.x
 * **Typography:** LaTeX
 * **Architecture:** Object-Oriented Design, Custom `Mobject` creation, dynamic `ValueTracker` implementations.
 
-## 🚀 Local Setup
+## Local Setup
 To run the scripts in this repository locally, ensure you have Manim installed and your environment configured.
 
 1. Clone the repository: `git clone https://github.com/[Your-Username]/[Repo-Name].git`
