@@ -10,7 +10,7 @@ Currently, I develop programmatic visualizations for the Math Outreach Team at P
 
 ### 1. Vector Calculus: Green's & Stokes' Theorems (KerPolito Outreach)
 * **Status:** Work in Progress
-* **Code:** [`/green_stokes`](./green_stokes)
+* **Code:** [`green_stokes(unfinished)`](<./green_stokes(unfinished)>). Includes the 12-scene source, rendering commands, and mathematical checks.
 
 **Mathematical Focus:** A step-by-step visual breakdown of multivariable calculus theorems. 
 
@@ -44,6 +44,8 @@ Currently, I develop programmatic visualizations for the Math Outreach Team at P
 ## Local Setup
 To run the scripts in this repository locally, ensure you have Manim installed and your environment configured.
 
-1. Clone the repository: `git clone https://github.com/[Your-Username]/[Repo-Name].git`
-2. Navigate to the desired project folder (e.g., `cd fourier_series`)
-3. Run the scene: `manim -pql main_scene.py [SceneName]`
+1. Clone the repository: `git clone https://github.com/kecco06500/portfolio.git`
+2. Open the Green–Stokes project: `cd 'portfolio/green_stokes(unfinished)'`
+3. Install its Python dependencies: `python3 -m pip install -r requirements.txt` (Manim also requires its system dependencies, including LaTeX for formulas).
+4. List the available scenes: `python3 render.py --list`
+5. Render a preview: `python3 render.py StokesSurface --preview`

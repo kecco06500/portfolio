@@ -4,6 +4,16 @@
 *.mp4
 *.mov
 
+# Output locali del progetto Green–Stokes
+green_stokes(unfinished)/video/
+green_stokes(unfinished)/work/
+green_stokes(unfinished)/verifiche/
+green_stokes(unfinished)/outputs/
+green_stokes(unfinished)/archivio/
+green_stokes(unfinished)/*.docx
+green_stokes(unfinished)/.venv/
+green_stokes(unfinished)/venv/
+
 # Ignora i file di sistema del Mac
 .DS_Store
 **/.DS_Store
